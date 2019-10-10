@@ -101,5 +101,3 @@ func stringdemo(s: String...)
     }
 }
 stringdemo(s: "Rajdeep", "Kaur", "Chahal")
-
-
